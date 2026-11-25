@@ -1,5 +1,5 @@
 {
-  "versao": "1.6.5",
-  "link": "https://github.com/wederbatera/conversor-zpl-updates/releases/download/v.1.6.5/ConversorZPL.exe",
-  "mensagem": "Aviso quando falta a NF na conversao"
+  "versao": "1.7.0",
+  "link": "https://github.com/wederbatera/conversor-zpl-updates/releases/download/v1.7.0/ConversorZPL.exe",
+  "mensagem": "Novo modo PDF: etiqueta + nota fiscal em PDF"
 }
